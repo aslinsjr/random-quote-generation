@@ -8,8 +8,8 @@ Essa é uma solução do desafio proposto por [ Saurabh Mhatre: ](https://saurab
 
 ### Links
 
-- Solução URL: [Repository](https://github.com/aslinsjr/user-feed-app)
-- Live Site URL: [Live Page](https://user-feed-app.vercel.app/)
+- Solução URL: [Repository](https://github.com/aslinsjr/random-quote-generation)
+- Live Site URL: [Live Page](https://random-quote-generation-five.vercel.app/)
 
 ### Desenvolvido com
 
